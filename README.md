@@ -18,11 +18,14 @@ Remove master.zip and README.md as they are no longer needed. <br/>
 $ rm master.zip <br/>
 $ rm README.md <br/> <br/>
 Your *MyDir* folder must now look like this: <br/> 
-04545.jpg <br/>
-MobileNetSSD_deploy.caffemodel <br/>
-MobileNetSSD_deploy.prototxt <br/>
-TestOpenCV_Caffe.cpb <br/>
-MobileNet.cpp <br/>
+Traffic.jpg <br/>
+COCO_labels.txt <br/>
+frozen_inference_graph_V1.pb (download this file from: https://drive.google.com/open?id=1sDn1guYV6oj-AeYuC-riGRh4kv9XBTMz )<br/>
+frozen_inference_graph_V2.pb (download this file from: https://drive.google.com/open?id=1EU6tVcDNLNwv-pbJUXL7wYUchFHxr5fw )<br/>
+ssd_mobilenet_v1_coco_2017_11_17.pbtxt <br/>
+ssd_mobilenet_v2_coco_2018_03_29.pbtxt <br/>
+TestOpenCV_TensorFlow.cpb <br/>
+MobileNetV1.cpp (can be use for V2 version also)<br/>
  <br/>
 Run TestOpenCV_Caffe.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
 
