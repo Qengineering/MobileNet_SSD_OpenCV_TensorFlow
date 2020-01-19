@@ -4,8 +4,8 @@ Papers <br/>
 https://arxiv.org/abs/1611.10012 <br/>
 Training set: COCO <br/>
 Size: 300x300 <br/>
-Frame rate V1: 3.16 FPS (RPi 4) <br/>
-Frame rate V2: 2.01 FPS (RPi 4) <br/>
+Frame rate V1: 3.19 FPS (RPi 4) <br/>
+Frame rate V2: 2.02 FPS (RPi 4) <br/>
 <br/>
 Special made for a bare Raspberry Pi see: https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html <br/>
 <br/>
