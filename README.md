@@ -4,8 +4,10 @@ Papers <br/>
 https://arxiv.org/abs/1611.10012 <br/>
 Training set: COCO <br/>
 Size: 300x300 <br/>
-Frame rate V1: 3.19 FPS (RPi 4) <br/>
-Frame rate V2: 2.02 FPS (RPi 4) <br/>
+Frame rate V1     : 3.19 FPS (RPi 4) <br/>
+Frame rate V1_0.75: 4.98 FPS (RPi 4) <br/>
+Frame rate V2     : 2.02 FPS (RPi 4) <br/>
+Frame rate V2 Lite: 3.86 FPS (RPi 4) <br/>
 <br/>
 Special made for a bare Raspberry Pi see: https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html <br/>
 <br/>
@@ -30,5 +32,7 @@ MobileNetV1.cpp (can be use for V2 version also)<br/>
 Run TestOpenCV_Caffe.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
 
 ![output image]( https://qengineering.eu/images/V1_FPS.png )
+![output image]( https://qengineering.eu/images/V1_075_FPS.png )
 ![output image]( https://qengineering.eu/images/V2_FPS.png )
+![output image]( https://qengineering.eu/images/V2_Lite_FPS.png )
 
