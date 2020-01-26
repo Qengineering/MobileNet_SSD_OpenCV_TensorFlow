@@ -34,7 +34,7 @@ static bool getFileContent(std::string fileName)
 	return true;
 }
 
-Mat detect_from_video(Mat &src)
+void detect_from_video(Mat &src)
 {
     Mat blobimg = dnn::blobFromImage(src, 1.0, Size(300, 300), 0.0, true);
 
@@ -59,7 +59,6 @@ Mat detect_from_video(Mat &src)
 			putText(src, format("%s", Names[det_index].c_str()), Point(x1, y1-5) ,FONT_HERSHEY_SIMPLEX,0.5, Scalar(0, 0, 255), 1, 8, 0);
 		}
 	}
-    return src;
 }
 
 int main(int argc,char ** argv)
