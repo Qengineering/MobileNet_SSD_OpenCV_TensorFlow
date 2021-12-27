@@ -51,10 +51,8 @@ To run the application load the project file TestOpenCV_TensorFlow.cbp in Code::
 if you want to connect a camera to the app, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
 ![output image]( https://qengineering.eu/images/V1_075_FPS.png )
 ![output image]( https://qengineering.eu/images/V2_FPS.png )
+![output image]( https://qengineering.eu/images/V2_Lite_FPS.png )
 
 ------------
 
 [![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
-
-![output image]( https://qengineering.eu/images/V2_Lite_FPS.png )
-
